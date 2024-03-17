@@ -1,4 +1,4 @@
-My programms by subject "Mathematical modeling"
+My programs for subject "Mathematical modeling"
 1) Modeling the motion of satellites around the Earth.
 
 This program shows the orbital motion of a constellation of satellites around the Earth. The main task was to simulate the rotation of the satellites around their own axis. 3 lines near each satellite show the axes of the satellite.
@@ -6,7 +6,7 @@ This program shows the orbital motion of a constellation of satellites around th
 
 2) Finding the minimum of a function.
 
-The program searches for a minimum of the particle swarm algorithm and its variations (particle freezing, extinction, genetic and others) and visualizes its operation at each step.
+The program searches for a minimum by the particle swarm algorithm and its variations (particle freezing, extinction, genetic and others) and visualizes its operation at each step.
 ![image](https://github.com/liliRina/c_plus_plus/assets/79633635/7f3e10c1-533a-43eb-88a4-1a746a8126d8)
 
 
