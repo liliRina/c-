@@ -1,3 +1,3 @@
 # c++
 
-My c++ programm
+My c++ programs
