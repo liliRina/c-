@@ -1,4 +1,4 @@
-My programs for subject "Mathematical modeling".I use Qt and c++.
+My programs for subject "Mathematical modeling". I used Qt and c++.
 1) Modeling the motion of satellites around the Earth.
 
 This program shows the orbital motion of a constellation of satellites around the Earth. The main task was to simulate the rotation of the satellites around their own axis. 3 lines near each satellite show the axes of the satellite.
