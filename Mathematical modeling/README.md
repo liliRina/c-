@@ -7,7 +7,8 @@ This program shows the orbital motion of a constellation of satellites around th
 2) Finding the minimum of a function.
 
 The program searches for a minimum of the particle swarm algorithm and its variations (particle freezing, extinction, genetic and others) and visualizes its operation at each step.
-![image](https://github.com/liliRina/c_plus_plus/assets/79633635/8342cb4f-a0cb-4ea5-9c08-f2edc0ea9b83)
+![image](https://github.com/liliRina/c_plus_plus/assets/79633635/7f3e10c1-533a-43eb-88a4-1a746a8126d8)
+
 
 
 
