@@ -6,6 +6,8 @@ Here you may find my programm for subject "Сomputer geometry". I use Qt and c++
    ![image](https://github.com/liliRina/c_plus_plus/assets/79633635/7fed6d4f-7adb-45af-add9-6e5ebda41fc8)
 3) A delaunay triangulation
    ![image](https://github.com/liliRina/c_plus_plus/assets/79633635/d0e92f22-0b4a-4129-a0eb-9bd24003af6a)
+4) Intersection of polygons
+![image](https://github.com/liliRina/c_plus_plus/assets/79633635/35018da0-d0d6-4bd3-b7b0-402e8eaca4c1)
 
 
 
